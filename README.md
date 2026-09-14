@@ -5,7 +5,7 @@
 
 This project uses Generative AI and deep learning to automatically transform black-and-white images into visually realistic color images.
 
-The system uses the DDColor pretrained deep learning model to predict suitable color information from grayscale images. OpenCV is used for image processing and enhancement, while Gradio provides an interactive web interface.
+The system uses the **DDColor** pretrained deep learning model to predict suitable color information from grayscale images. OpenCV is used for image processing and enhancement, while Gradio provides an interactive web interface.
 
 ## ✨ Features
 
@@ -15,6 +15,7 @@ The system uses the DDColor pretrained deep learning model to predict suitable c
 - Color enhancement
 - Downloadable colorized result
 - Interactive Gradio interface
+- Deep learning-based computer vision
 
 ## 🛠️ Technologies Used
 
