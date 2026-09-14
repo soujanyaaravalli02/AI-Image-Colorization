@@ -42,14 +42,3 @@ Color Prediction
 Color Enhancement
         ↓
 AI Colorized Image
-
-## 🖼️ Colorization Results
-
-### Original Image
-![Original Image](assets/original.jpg)
-
-### Grayscale Image
-![Grayscale Image](assets/grayscale.jpg)
-
-### AI Colorized Image
-![AI Colorized Image](assets/colorized.jpg)
